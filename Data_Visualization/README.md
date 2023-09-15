@@ -7,7 +7,10 @@
 ### Any code and notebooks related to the lessons will be found in this directory.  
 
 Types of Visualization (The Why?)
-* Explanatory (Communicate something to a larger audience)  
+* Explanatory (Communicate something to a larger audience)
+
+Example: Imagine a corporation uses a bar chart to showcase its quarterly profits to its stakeholders. The visualization simplifies the financial data into a form that is easy to understand, presenting a clear picture of the company's financial status over the year.
+
 * Exploratory (Find out interesting aspects/patterns in the data) 
 * Confirmatory (Visual evidence for an assertion/hypothesis)  
 
